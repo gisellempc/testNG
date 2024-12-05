@@ -1,0 +1,8 @@
+<suite name="Suite1" verbose="1">
+    <test name="myTest">
+        <classes>
+            <class name="FirstTestNGClass"/>
+            <class name="SecondTestNGClass"/>
+        </classes>
+    </test>
+</suite>
